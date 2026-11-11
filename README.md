@@ -7,6 +7,10 @@
 
 > **100+ tools** across 12 categories.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/QAInsights/awesome-ai-tools">upstream project</a>’s categorised survey of coding assistants, terminal agents, app builders, review tools and testing platforms. Separating tools by workflow helps developers compare relevant options and avoid duplicating capabilities already present in their stack. The benefit is more efficient technical discovery; tool effectiveness and costs need confirmation for the intended environment.</sub>
+<!-- impact-note:end -->
+
 ## 📋 Table of Contents
 
 - [🖥️ AI-Native IDEs & Editors](#ai-native-ides--editors)
